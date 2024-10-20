@@ -1,0 +1,6 @@
+@MediaFlow_Final.WebApi_HostAddress = http://localhost:5200
+
+GET {{MediaFlow_Final.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
